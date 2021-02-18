@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858199482023",
+    "firebase_url": "https://bluemoonl-default-rtdb.firebaseio.com",
+    "project_id": "bluemoonl",
+    "storage_bucket": "bluemoonl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858199482023:android:7ae85aa3758a43f0a1c582",
+        "android_client_info": {
+          "package_name": "com.bliss.csc.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858199482023-5ekseihceeg33ssongr4v7vvvpn97tp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3ROKDn0csDDgAhbZheVql5IskQLp_tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858199482023-5ekseihceeg33ssongr4v7vvvpn97tp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
